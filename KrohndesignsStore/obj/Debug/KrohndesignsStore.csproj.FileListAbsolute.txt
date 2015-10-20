@@ -1,0 +1,37 @@
+c:\users\smkbootcamp\documents\visual studio 2013\Projects\KrohndesignsStore\KrohndesignsStore\bin\Debug\KrohndesignsStore.exe.config
+c:\users\smkbootcamp\documents\visual studio 2013\Projects\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.csprojResolveAssemblyReference.cache
+c:\users\smkbootcamp\documents\visual studio 2013\Projects\KrohndesignsStore\KrohndesignsStore\bin\Debug\KrohndesignsStore.exe
+c:\users\smkbootcamp\documents\visual studio 2013\Projects\KrohndesignsStore\KrohndesignsStore\bin\Debug\KrohndesignsStore.pdb
+c:\users\smkbootcamp\documents\visual studio 2013\Projects\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.exe
+c:\users\smkbootcamp\documents\visual studio 2013\Projects\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.pdb
+C:\Users\Krohn\Dropbox\KrohndesignsStore\KrohndesignsStore\bin\Debug\KrohndesignsStore.exe.config
+C:\Users\Krohn\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.exe
+C:\Users\Krohn\Dropbox\KrohndesignsStore\KrohndesignsStore\bin\Debug\KrohndesignsStore.exe
+C:\Users\Krohn\Dropbox\KrohndesignsStore\KrohndesignsStore\bin\Debug\KrohndesignsStore.pdb
+C:\Users\Krohn\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.csprojResolveAssemblyReference.cache
+C:\Users\Krohn\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.pdb
+C:\Users\SMKBOOTCAMP\Dropbox\KrohndesignsStore\KrohndesignsStore\bin\Debug\KrohndesignsStore.exe.config
+C:\Users\SMKBOOTCAMP\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.exe
+C:\Users\SMKBOOTCAMP\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.pdb
+C:\Users\SMKBOOTCAMP\Dropbox\KrohndesignsStore\KrohndesignsStore\bin\Debug\KrohndesignsStore.exe
+C:\Users\SMKBOOTCAMP\Dropbox\KrohndesignsStore\KrohndesignsStore\bin\Debug\KrohndesignsStore.pdb
+C:\Users\SMKBOOTCAMP\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.csprojResolveAssemblyReference.cache
+C:\Users\Krohn\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.csproj.GenerateResource.Cache
+C:\Users\Krohn\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.LoginDialog.resources
+C:\Users\Krohn\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.RegisterGUI.resources
+C:\Users\Krohn\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.EmployeeScreen.resources
+C:\Users\Krohn\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.MyMessageBox.resources
+C:\Users\Krohn\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.NewOrderGUI.resources
+C:\Users\Krohn\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.Properties.Resources.resources
+C:\Users\Krohn\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.ViewCartDialog.resources
+C:\Users\SMKBOOTCAMP\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.EmployeeScreen.resources
+C:\Users\SMKBOOTCAMP\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.LoginDialog.resources
+C:\Users\SMKBOOTCAMP\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.MyMessageBox.resources
+C:\Users\SMKBOOTCAMP\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.NewOrderGUI.resources
+C:\Users\SMKBOOTCAMP\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.Properties.Resources.resources
+C:\Users\SMKBOOTCAMP\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.RegisterGUI.resources
+C:\Users\SMKBOOTCAMP\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.ViewCartDialog.resources
+C:\Users\SMKBOOTCAMP\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.csproj.GenerateResource.Cache
+C:\Users\SMKBOOTCAMP\Dropbox\KrohndesignsStore\KrohndesignsStore\bin\Debug\MySql.Data.CF.dll
+C:\Users\Krohn\Dropbox\KrohndesignsStore\KrohndesignsStore\bin\Debug\MySql.Data.dll
+C:\Users\Krohn\Dropbox\KrohndesignsStore\KrohndesignsStore\obj\Debug\KrohndesignsStore.ViewOldOrderGUI.resources

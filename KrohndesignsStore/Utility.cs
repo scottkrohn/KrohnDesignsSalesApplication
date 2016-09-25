@@ -129,7 +129,7 @@ namespace KrohndesignsStore
         // Perform an insert command into the kddb database using the command in 'insertCommand'
         public static bool insertDB(string insertCommand){
             try{
-                string connectionInfo = "datasource=scottkrohn.com;port=3306;username=skrohn_root;password=refinnej8!";
+                string connectionInfo = "";
                 MySqlConnection myConnection = new MySqlConnection(connectionInfo);
                 MySqlDataAdapter myData = new MySqlDataAdapter();
                 MySqlCommandBuilder cb = new MySqlCommandBuilder(myData);
@@ -152,7 +152,7 @@ namespace KrohndesignsStore
         public static DataTable selectDB(string selectCommand){
             DataTable dt = new DataTable();
             try{
-                string connectionInfo = "server=sheep.arvixe.com;port=3306;username=skrohn_root;password=refinnej8!";
+                string connectionInfo = "";
                 MySqlConnection myConnection = new MySqlConnection(connectionInfo);
                 MySqlDataAdapter myData = new MySqlDataAdapter();
                 MySqlCommandBuilder cb = new MySqlCommandBuilder(myData);
